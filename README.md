@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI, ML, DL, NN, Python, Angular, Typescript**
 
-- 💬 Ask me about **C#, ASP .NET frameworks, Java (SE, EE), C++, C**
+- 💬 Ask me about **C#, ASP .NET frameworks, Angular, C++, C**, Python, AI
 
 - 📫 How to reach me **zhasulanasainov@gmail.com**
 
